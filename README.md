@@ -1,10 +1,13 @@
-### Hi there 👋
+### Hi, I'm Krzysiek 👋
+<div id="badges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+</div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kacperklusek&layout=compact&hide=Jupyter%20Notebook&langs_count=8&line=54bd9a&point=fff&hide_border=trueb&card_width=325)](https://github.com/kacperklusek/github-readme-stats)
 
 <h3 align="left">Languages and Technologies I'm familiar with:</h3>
 <p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> 
