@@ -1,5 +1,5 @@
 <h1 align="center">Hi I'm Krzysiek 👋</h1>
-<h3 align="center">2rd year Computer Science student at AGH UST</h3>
+<h3 align="center">3rd year Computer Science student at AGH UST</h3>
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
