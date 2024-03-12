@@ -1,10 +1,6 @@
 <h1 align="center">Hi I'm Krzysiek 👋</h1>
 <h3 align="center">3rd year Computer Science student at AGH UST</h3>
 
-<h1 align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
-</h1>
-
 <div align="center" id="badges">
   <h3>Connect with me:</h3>
   <a href="https://www.linkedin.com/in/krzysztof-solecki-61886a1b1/">
