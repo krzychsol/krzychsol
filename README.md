@@ -1,5 +1,5 @@
 <h1 align="center">Hi I'm Krzysiek 👋</h1>
-<h3 align="center">3rd year Computer Science student at AGH UST</h3>
+<h3 align="center">4rd year Computer Science student at AGH UST</h3>
 
 <div align="center" id="badges">
   <h3>Connect with me:</h3>
